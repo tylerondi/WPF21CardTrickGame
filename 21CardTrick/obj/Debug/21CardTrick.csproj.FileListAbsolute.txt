@@ -1,0 +1,120 @@
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+c:\users\daniel\documents\visual studio 2013\Projects\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.lref
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.lref
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.lref
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+C:\Users\Jeff\Documents\School\CS 3750\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.lref
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb
+C:\Users\AJM\Desktop\CardTrick_New\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csprojResolveAssemblyReference.cache
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\21CardTrick_Content.g.cs
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.lref
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+C:\Users\AJM\Desktop\Card_Trick_Newest\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_Content.g.cs
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick_Content.g.cs
+C:\Users\w01060530\Desktop\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csprojResolveAssemblyReference.cache
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csprojResolveAssemblyReference.cache
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_Content.g.cs
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.lref
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+C:\Users\AJM\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csprojResolveAssemblyReference.cache
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe.config
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.exe
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\bin\Debug\21CardTrick.pdb
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csprojResolveAssemblyReference.cache
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.g.cs
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\App.g.cs
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_Content.g.cs
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.cache
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick_MarkupCompile.lref
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\MainWindow.baml
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.g.resources
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\_21CardTrick.Properties.Resources.resources
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.csproj.GenerateResource.Cache
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.exe
+C:\Users\tylerondi\Documents\21-card-trick\21CardTrick\21CardTrick\obj\Debug\21CardTrick.pdb

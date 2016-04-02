@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8BB69503-90F1-4784-A68D-38F93C8A9357}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_21CardTrick</RootNamespace>
+    <AssemblyName>21CardTrick</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Enums\FaceEnums.cs" />
+    <Compile Include="Enums\SuitesEnum.cs" />
+    <Compile Include="ViewModels\CardViewModel.cs" />
+    <Compile Include="ViewModels\DealerViewModel.cs" />
+    <Compile Include="ViewModels\DeckViewModel.cs" />
+    <Compile Include="ViewModels\MainWindowViewModel.cs" />
+    <Compile Include="ViewModels\PlayerViewModel.cs" />
+    <Compile Include="ViewModels\ViewModelBase.cs" />
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MainBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\c11.png" />
+    <Resource Include="Assets\c12.png" />
+    <Resource Include="Assets\c13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\b1fh.png" />
+    <Resource Include="Assets\b1fv.png" />
+    <Resource Include="Assets\b1pb.png" />
+    <Resource Include="Assets\b1pl.png" />
+    <Resource Include="Assets\b1pr.png" />
+    <Resource Include="Assets\b1pt.png" />
+    <Resource Include="Assets\b2fh.png" />
+    <Resource Include="Assets\b2fv.png" />
+    <Resource Include="Assets\b2pb.png" />
+    <Resource Include="Assets\b2pl.png" />
+    <Resource Include="Assets\b2pr.png" />
+    <Resource Include="Assets\b2pt.png" />
+    <Resource Include="Assets\Background.jpg" />
+    <Resource Include="Assets\c1.png" />
+    <Resource Include="Assets\c10.png" />
+    <Resource Include="Assets\c2.png" />
+    <Resource Include="Assets\c3.png" />
+    <Resource Include="Assets\c4.png" />
+    <Resource Include="Assets\c5.png" />
+    <Resource Include="Assets\c6.png" />
+    <Resource Include="Assets\c7.png" />
+    <Resource Include="Assets\c8.png" />
+    <Resource Include="Assets\c9.png" />
+    <Resource Include="Assets\chipAdd.png" />
+    <Resource Include="Assets\chipMinus.png" />
+    <Resource Include="Assets\d1.png" />
+    <Resource Include="Assets\d10.png" />
+    <Resource Include="Assets\d2.png" />
+    <Resource Include="Assets\d3.png" />
+    <Resource Include="Assets\d4.png" />
+    <Resource Include="Assets\d5.png" />
+    <Resource Include="Assets\d6.png" />
+    <Resource Include="Assets\d7.png" />
+    <Resource Include="Assets\d8.png" />
+    <Resource Include="Assets\d9.png" />
+    <Resource Include="Assets\ec.png" />
+    <Resource Include="Assets\h1.png" />
+    <Resource Include="Assets\h10.png" />
+    <Resource Include="Assets\h2.png" />
+    <Resource Include="Assets\h3.png" />
+    <Resource Include="Assets\h4.png" />
+    <Resource Include="Assets\h5.png" />
+    <Resource Include="Assets\h6.png" />
+    <Resource Include="Assets\h7.png" />
+    <Resource Include="Assets\h8.png" />
+    <Resource Include="Assets\h9.png" />
+    <Resource Include="Assets\s1.png" />
+    <Resource Include="Assets\s10.png" />
+    <Resource Include="Assets\s2.png" />
+    <Resource Include="Assets\s3.png" />
+    <Resource Include="Assets\s4.png" />
+    <Resource Include="Assets\s5.png" />
+    <Resource Include="Assets\s6.png" />
+    <Resource Include="Assets\s7.png" />
+    <Resource Include="Assets\s8.png" />
+    <Resource Include="Assets\s9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\d11.png" />
+    <Resource Include="Assets\d12.png" />
+    <Resource Include="Assets\d13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\h11.png" />
+    <Resource Include="Assets\h12.png" />
+    <Resource Include="Assets\h13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\s11.png" />
+    <Resource Include="Assets\s12.png" />
+    <Resource Include="Assets\s13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Sounds\cardShove1.wav" />
+    <Content Include="Sounds\cardSlide5.wav" />
+    <Content Include="Sounds\cardTakeOutPackage1.wav" />
+    <Content Include="Sounds\deal_card.wav" />
+    <Content Include="Sounds\PokerCardShuffle.wav" />
+    <Content Include="Sounds\TaDa.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(ProjectDir)Sounds\*.*" "$(TargetDir)" /Y /I</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
